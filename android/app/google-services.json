@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97940233946",
+    "project_id": "petface-e90c0",
+    "storage_bucket": "petface-e90c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97940233946:android:a4f47e6ef97aff26108fe3",
+        "android_client_info": {
+          "package_name": "com.act99.petface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97940233946-r1p055sl23k3ed2j63foei4b9goqa545.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.act99.petface",
+            "certificate_hash": "ae5f36868af2938833ffafcdfbf48345b2e91155"
+          }
+        },
+        {
+          "client_id": "97940233946-2guhac2o534k66q3k47hn9ol6ednmvu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkMW60E3J8Ib5iZaMz4Ag_6e8Ebs-p0Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97940233946-2guhac2o534k66q3k47hn9ol6ednmvu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
